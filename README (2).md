@@ -26,8 +26,8 @@
 * main.py - файл для запуска программы
 * work.py - файл с классами фигур
 ---
-![1.png](1.png)
-![2.png](2.png)
-![3.png](3.png)
+![1.jpg](1.jpg)
+![2.jpg](2.jpg)
+![3.jpg](3.jpg)
 
 ### ### [Мой GitHub](https://github.com/ste1wallF)
